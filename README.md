@@ -1,6 +1,5 @@
 <!-- Project Title -->
 <div align="center">
-  <img src="icon.png" alt="Project Icon" width="100">
   <h1>Customer Segmentation & CLV Analysis</h1>
 </div>
 
